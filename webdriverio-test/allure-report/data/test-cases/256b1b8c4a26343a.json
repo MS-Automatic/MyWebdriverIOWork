@@ -1,0 +1,56 @@
+{
+  "uid" : "256b1b8c4a26343a",
+  "name" : "AmazonAddtoCart",
+  "fullName" : "AmazonE2E.AmazonAddtoCart",
+  "historyId" : "a9d90b5432ac130cc897f5317ef44f84",
+  "time" : {
+    "start" : 1626961406031,
+    "stop" : 1626961421366,
+    "duration" : 15335
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-8"
+  }, {
+    "name" : "suite",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testClass",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testMethod",
+    "value" : "AmazonAddtoCart"
+  }, {
+    "name" : "package",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "256b1b8c4a26343a.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

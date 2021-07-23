@@ -1,0 +1,58 @@
+{
+  "uid" : "6e6ce35971adf1d4",
+  "name" : "AmazonAddtoCart",
+  "fullName" : "AmazonE2E.AmazonAddtoCart",
+  "historyId" : "a9d90b5432ac130cc897f5317ef44f84",
+  "time" : {
+    "start" : 1626960085514,
+    "stop" : 1626960085560,
+    "duration" : 46
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: $(...).addvalue is not a function      \n                      actual expected\n                      \n                      ''\n                      ",
+  "statusTrace" : "TypeError: $(...).addvalue is not a function\n                    at serachTerm (C:\\webdriverio-test\\test\\pages\\/Amazon_Header_functions.js:6:19)\n                    at UserContext.<anonymous> (C:\\webdriverio-test\\test\\specs\\/amazon-e2e-functions.test.js:20:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testClass",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testMethod",
+    "value" : "AmazonAddtoCart"
+  }, {
+    "name" : "package",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e6ce35971adf1d4.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

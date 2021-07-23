@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "AmazonLogin",
+    "uid" : "546d2fe8059e60be",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627030586547,
+      "stop" : 1627030604997,
+      "duration" : 18450
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.164" ]
+  }, {
+    "name" : "AmazonAddtoCart",
+    "uid" : "4ae48b3ba76e771c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627030604999,
+      "stop" : 1627030618829,
+      "duration" : 13830
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.164" ]
+  } ]
+}

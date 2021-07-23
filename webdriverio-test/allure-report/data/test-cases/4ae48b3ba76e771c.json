@@ -1,0 +1,123 @@
+{
+  "uid" : "4ae48b3ba76e771c",
+  "name" : "AmazonAddtoCart",
+  "fullName" : "AmazonE2E.AmazonAddtoCart",
+  "historyId" : "a9d90b5432ac130cc897f5317ef44f84",
+  "time" : {
+    "start" : 1627030604999,
+    "stop" : 1627030618829,
+    "duration" : 13830
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testClass",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testMethod",
+    "value" : "AmazonAddtoCart"
+  }, {
+    "name" : "package",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1ef53a56d160ad88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627029057642,
+        "stop" : 1627029076350,
+        "duration" : 18708
+      }
+    }, {
+      "uid" : "da293723164d2082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627028608403,
+        "stop" : 1627028626661,
+        "duration" : 18258
+      }
+    }, {
+      "uid" : "d276d696baab28c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627028295570,
+        "stop" : 1627028313497,
+        "duration" : 17927
+      }
+    }, {
+      "uid" : "d97f084e73239410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627027855585,
+        "stop" : 1627027874563,
+        "duration" : 18978
+      }
+    }, {
+      "uid" : "265b93777bb3b36d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627027184222,
+        "stop" : 1627027202062,
+        "duration" : 17840
+      }
+    }, {
+      "uid" : "256b1b8c4a26343a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626961406031,
+        "stop" : 1626961421366,
+        "duration" : 15335
+      }
+    }, {
+      "uid" : "42d56e14e0f9f27f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626960143412,
+        "stop" : 1626960144852,
+        "duration" : 1440
+      }
+    }, {
+      "uid" : "6e6ce35971adf1d4",
+      "status" : "failed",
+      "statusDetails" : "TypeError: $(...).addvalue is not a function      \n                      actual expected\n                      \n                      ''\n                      ",
+      "time" : {
+        "start" : 1626960085514,
+        "stop" : 1626960085560,
+        "duration" : 46
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ae48b3ba76e771c.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

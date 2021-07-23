@@ -1,0 +1,21 @@
+[ {
+  "uid" : "546d2fe8059e60be",
+  "name" : "AmazonLogin",
+  "time" : {
+    "start" : 1627030586547,
+    "stop" : 1627030604997,
+    "duration" : 18450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ae48b3ba76e771c",
+  "name" : "AmazonAddtoCart",
+  "time" : {
+    "start" : 1627030604999,
+    "stop" : 1627030618829,
+    "duration" : 13830
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

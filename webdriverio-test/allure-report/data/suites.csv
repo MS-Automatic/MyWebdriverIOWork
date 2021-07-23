@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 23 14:26:26 IST 2021","Fri Jul 23 14:26:44 IST 2021","18450","","AmazonE2E","","AmazonE2E","AmazonLogin","AmazonLogin",""
+"passed","Fri Jul 23 14:26:44 IST 2021","Fri Jul 23 14:26:58 IST 2021","13830","","AmazonE2E","","AmazonE2E","AmazonAddtoCart","AmazonAddtoCart",""

@@ -1,0 +1,56 @@
+{
+  "uid" : "a08e5e0566ef1132",
+  "name" : "AmazonLogin",
+  "fullName" : "AmazonE2E.AmazonLogin",
+  "historyId" : "4749ff9ec66adb137a7311988ebd7b6f",
+  "time" : {
+    "start" : 1626960068698,
+    "stop" : 1626960085513,
+    "duration" : 16815
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testClass",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "testMethod",
+    "value" : "AmazonLogin"
+  }, {
+    "name" : "package",
+    "value" : "AmazonE2E"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a08e5e0566ef1132.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}
