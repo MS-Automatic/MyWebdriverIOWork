@@ -6,8 +6,8 @@ export const USER_CONFIGURATION = {
     },
     AMAZON_U1:
     {
-      username: "shetyemayur5@gmail.com",
-      password: "kadambari"
+      username: "username",
+      password: "password"
     },
   };
   
