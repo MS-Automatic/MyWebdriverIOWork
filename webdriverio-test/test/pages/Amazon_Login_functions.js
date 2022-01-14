@@ -26,3 +26,4 @@ export function enterEmail() {
     $(SUBMIT_BUTTON).click()
     browser.pause(5000);
   }
+

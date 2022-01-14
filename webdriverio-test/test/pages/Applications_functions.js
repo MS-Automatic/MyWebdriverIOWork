@@ -10,6 +10,14 @@ export function openURLAmazon(){
     browser.url(ENV.AMAZON.address);
 }
 
+export function openURLTunne(){
+    browser.url(ENV.TUNNE.address);
+}
+
+export function openURLOpenair(){
+    browser.url(ENV.OPENAIR.address);
+}
+
 export function expectToHaveURLCart(){
     expect(browser).toHaveUrl(ENV.TEST1.address +'cart');
 }
